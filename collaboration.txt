@@ -1,0 +1,4 @@
+Kevin Graziosi
+10/10/24 and 10/11/24
+    Talked with one of my friends from another school to try and figure out some bugs I was having with my 
+    handle_http_post_msg() and handle_http_get_feed() functions.
